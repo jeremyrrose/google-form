@@ -1,0 +1,44 @@
+.googleForm {
+    width: 600px;
+    margin: 80px auto;
+    font-family: sans-serif;
+}
+
+.googleForm div {
+    width: 100%;
+    position: relative;
+    margin-top: 2rem;
+    padding: .4rem;
+    border: 2px solid #cdcdcd;
+    border-radius: .8rem;
+}
+
+input, textarea {
+    width: 96%;
+    font-size: 14px;
+    border: 0px;
+    padding: .4rem;
+    font-family: sans-serif;
+}
+
+textarea {
+    height: 100px;
+}
+
+label {
+    position: absolute;
+    top: -1.1rem;
+    left: .8rem;
+    padding: .2rem 1rem;
+    background: #ffffff;
+
+}
+
+button {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 1rem;
+    padding: .4rem 1rem;
+    border-radius: .6rem;
+}
+
